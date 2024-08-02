@@ -21,3 +21,5 @@ This program is designed to download and execute binary code, which may bypass d
 - Review the source code and understand its functionality before execution.
 
 **By using this program, you acknowledge that you understand these risks and responsibilities.**
+to compile
+```cl /EHsc C:\Users\Chris\Desktop\test.c /FeC:\Users\Chris\Desktop\test.exe /FoC:\Users\Chris\Desktop\test.obj```
