@@ -23,5 +23,8 @@ This program is designed to download and execute binary code, which may bypass d
 **By using this program, you acknowledge that you understand these risks and responsibilities.**
 
 ## To Compile
-
+non xored
 ```cl /EHsc C:\Users\Chris\Desktop\test.c /FeC:\Users\Chris\Desktop\test.exe /FoC:\Users\Chris\Desktop\test.obj```
+
+xored
+```cl /EHsc C:\Users\Chris\Desktop\new.c /FoC:\Users\Chris\Desktop\new.obj /FeC:\Users\Chris\Desktop\test.exe /link wininet.lib```
